@@ -1,0 +1,96 @@
+#Imie {
+    font-size: 80px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#Zdj {
+    float: left;
+    width: 20%;
+    text-align: center;
+    
+}
+
+#Lokalizacja {
+    background-color:#F7E6D0;
+    float: left;
+    width: 38%;
+    border: 5px dashed #4C373F;
+    height: 200px;
+    font-size: 28px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 90px;
+}
+
+#Hobby {
+    background-color: #E5CFAE;
+    float: left;
+    width: 38%;
+    border: 5px dashed #4C373F;
+    height: 292px;
+    font-size: 28px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#Wyksztalcenie {
+    clear:both;
+}
+
+#Lokalizacja:hover {
+    width: 40%;
+    height: 240px;
+    transition: 0.5s;
+}
+
+#Hobby:hover {
+    width: 40%;
+    height: 332px;
+    transition: 0.5s;
+}
+
+#Zdj:hover {
+    width: 22%;
+    transition: 0.5s;
+}
+
+#Container {
+    height: 350px;
+}
+
+#Wyksztalcenie {
+    width: 97%;
+    padding: 20px;
+    font-size: 28px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px dashed #967773;
+    margin-bottom: 15px;
+    background-color: #B7A899;
+}
+
+#Doswiadczenie {
+    width: 97%;
+    padding: 20px;
+    font-size: 28px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px dashed #967773;
+    margin-bottom: 15px;
+    background-color: #B7A899;
+}
+
+#Umiejetnosci {
+    width: 97%;
+    padding: 20px;
+    font-size: 28px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px dashed #967773;
+    background-color: #B7A899;
+}
+
+body {
+    background-color: #4C373F;
+}
